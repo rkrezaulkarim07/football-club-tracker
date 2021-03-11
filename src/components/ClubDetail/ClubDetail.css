@@ -1,0 +1,42 @@
+.club-detail-background {
+    background-color: #0E0A2B;
+}
+
+.club-cart-detail {
+    border: 1px solid;
+    background-color: #FC4D57;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+#club-description {
+    color: white;
+}
+
+#facebook-icon {
+        margin-left: 30px;
+        font-size: 40px;
+        color: #1877F2;
+}
+
+#instagram-icon {
+        margin-left: 30px;
+        font-size: 40px;
+        color: #DD2A7B;
+        margin-bottom: 20px;
+}
+
+#twitter-icon {
+        margin-left: 30px;
+        font-size: 40px;
+        color: #1877F2;
+        margin-bottom: 20px;
+}
+
+#youtube-icon {
+    margin-left: 30px;
+        font-size: 40px;
+        color: red;
+        margin-bottom: 20px;
+}
